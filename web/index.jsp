@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  hello
+  hello use vcs/import into version control/share project on github
   $END$
   </body>
 </html>
